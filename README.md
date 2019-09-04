@@ -1,3 +1,6 @@
+This project is a branch off of EOSIO
+______________________________________ _______
+
 # EOS.IO documentation is now located at http://developers.eos.io
 
 ## EOS.IO Technical White Paper
@@ -13,3 +16,4 @@
 
 If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
 https://crowdin.com/project/eos-docs
+_________
